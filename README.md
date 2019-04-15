@@ -161,6 +161,6 @@ On Mac OS X, an AtomEye startup script can be useful to set up appropriate key m
     set key->BackSpace load_config_backward
     xtal_origin_goto 0.5 0.5 0.5
 
-##
+## Installation on Ubuntu
 Some prerequisite libraries for installation on Ubuntu 18.04
 libnetcdf-dev,libx11-dev,libxext-dev,libxpm-dev,libpng-dev
